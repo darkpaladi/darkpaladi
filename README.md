@@ -1,12 +1,16 @@
-### Welcome to my github page 👋
+# Welcome to my github 
 
-Current siuation:
+### My interests are:
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning:
-- 👯 I’m looking to collaborate on: 
-- 🤔 I’m looking for help with:
-- 💬 Ask me about: 
-- 📫 How to reach me:
-- ⚡ Fun fact: 
-
+- 🤖 Artificial intelligence
+  - Machine Learning
+  - Solving real life problems applying ai
+- 🎮 Video game production
+  - Applying AI 
+  - Procedural generation 
+- 🌊 Surf
+  - Applying AI to surf
+  - Competitive surfing
+- 🎨 Art
+  - Creative projects
+  - Art generation  
