@@ -2,6 +2,9 @@
 
 ### My interests are:
 
+- 📒 Crpyto
+  - Smart contracts
+  - Web3
 - 🤖 Artificial intelligence
   - Machine Learning
   - Solving real life problems applying ai
