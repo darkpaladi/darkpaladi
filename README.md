@@ -2,12 +2,12 @@
 
 ### My interests are:
 
-- 📒 Crpyto
+- 📒 Crypto
   - Smart contracts
   - Web3
 - 🤖 Artificial intelligence
   - Machine Learning
-  - Solving real life problems applying ai
+  - Solving real life problems applying AI
 - 🎮 Video game production
   - Applying AI 
   - Procedural generation 
